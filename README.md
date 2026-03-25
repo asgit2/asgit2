@@ -26,20 +26,12 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 ![Apache](https://img.shields.io/badge/Apache-CA2133?style=for-the-badge&logo=apache)
 
-
-### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Azure DevOps](https://img.shields.io/badge/AzureDevOps-0078D7?style=for-the-badge&logo=azuredevops)
-
----
-
 ### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat)
 
----
 
 ### ⚡ Messaging & Caching
 ![Kafka](https://img.shields.io/badge/ApacheKafka-000000?style=for-the-badge&logo=apachekafka)
